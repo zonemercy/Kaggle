@@ -23,4 +23,4 @@ My signal xgboost model solution for the [Quora Question Pairs kaggle competitio
 - LSA_Ngram_CosineSim
 - WordNet_Similarity
 
-With additional parameters tuning it should be able to avoid overfitting.
+Training models with different subset of features and label post-processing could boost result to top rank 1%
