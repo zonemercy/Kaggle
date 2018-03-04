@@ -1,4 +1,4 @@
-# Kaggle notebook
+# Kaggle solution notebook
 
 My code for [Kaggle competition](http://www.kaggle.com/zonemercy)
 
